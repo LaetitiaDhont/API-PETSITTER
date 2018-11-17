@@ -156,7 +156,9 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 ​        **Front-end**  
 
-- 
+- Editeur de texte : Visual Code Studio
+- HTML/SCSS
+- AngularJS
 
 
 
@@ -166,7 +168,29 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 
 
+- IDE : Eclipse
+
 - Java 
+
+   J'ai choisi d'utiliser le langage Java car c'est un langage orienté objet, mon projet sera ainsi plus structuré et facilement maintenable en cas de problèmes.
+
+  Java permet de faire de lourdes conceptions avec de bonnes performances. 
+
+  Java possède une grande communauté de développeurs prêt à m'aider en cas de besoin dans mon projet.
+
+  Les API Java sont très utiles et font gagner énormément de temps.
+
+  Java permet l'utilisation de base de données, je pourrais ainsi manipuler librement les données de mes utilisateurs par exemple.
+
+- Springboot 
+
+- MySQL 
+
+- JPA
+
+- Hibernate
+
+  # 
 
 
 
