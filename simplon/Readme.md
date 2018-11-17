@@ -17,15 +17,9 @@ Mon journal de bord détaillé se situe sur Evernote, le lien est indiqué dans 
 
 
 - [Introduction](#Introduction)
-
 - [Contexte](#Contexte)
-
 - [Logbook](#Logbook)
-
-- [Ressources utilisées](#Ressources utilisées
-
-  )
-
+- [Ressources utilisées](#Ressources)
 - 
 
 
@@ -64,7 +58,7 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 
 
-###### Ressources utilisées
+###### Ressources 
 
 ​       **Organisation** 
 
