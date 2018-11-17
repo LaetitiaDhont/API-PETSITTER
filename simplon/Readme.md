@@ -1,4 +1,4 @@
-**Project Certification :** 
+# Projet Certification 
 
 
 
@@ -14,15 +14,17 @@ Mon journal de bord détaillé se situe sur Evernote, le lien est indiqué dans 
 
 **Sommaire :** 
 
+
+
+- [Introduction](#Projet Certification )
 - [Contexte](#Contexte)
 - [Logbook](#Logbook)
+- [Ressources utilisées](#Ressources utilisées)
 - 
 
 
 
-###### Contexte :
-
-
+###### **Contexte**
 
 
 
@@ -32,9 +34,7 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 
 
-**Logbook:** 
-
-
+###### Logbook
 
 [Mon Journal de bord](https://www.evernote.com/l/Ans1I5r-kEtND7A3ca3HAbmuNtym-GRDErU/) 
 
@@ -58,9 +58,7 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 
 
-**Ressources utilisées:** 
-
-
+###### Ressources utilisées
 
 ​       **Organisation** 
 
@@ -168,7 +166,7 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 
 
-- 
+- Java 
 
 
 
