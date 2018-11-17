@@ -1,6 +1,6 @@
 # Projet Certification 
 
-
+###### Introduction
 
 Bienvenue sur mon projet de certification de fin d'année ! 
 
@@ -16,10 +16,16 @@ Mon journal de bord détaillé se situe sur Evernote, le lien est indiqué dans 
 
 
 
-- [Introduction](#Projet Certification )
+- [Introduction](#Introduction)
+
 - [Contexte](#Contexte)
+
 - [Logbook](#Logbook)
-- [Ressources utilisées](#Ressources utilisées)
+
+- [Ressources utilisées](#Ressources utilisées
+
+  )
+
 - 
 
 
