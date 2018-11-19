@@ -82,8 +82,6 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 
 
-
-
 - [Evernote :](https://www.evernote.com/l/Ans1I5r-kEtND7A3ca3HAbmuNtym-GRDErU/)  J'ai utilisé Evernote qui est un outil très intuitif pour prendre des notes gratuitement, il existe une version premium mais la version gratuite offre déjà une multitude de possibilités . Dans mon projet, il était indispensable de prendre des notes pour bien m'organiser et retrouver tous le travail effectué dans un même endroit. Par exemple, mon lien Sprint #0 mènera au Sprint#0 puis à mes personae etc...
 
   C'est donc avec cette application que j'ai choisi de faire mon journal de bord que je rempli chaque jour dès qu'il y a une information, une ressource, un lien ou simplement une image que je souhaite garder.
@@ -95,16 +93,11 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
   Je rempli mon Evernote à chaque sprint et je le met à jour à chaque changement.
 
 
-
-
-
 - Gloomaps : J'ai utilisé l'application Gloomaps qui me sert à créer l'arborescence de mon projet. C'est très pratique de connaître et de visualiser l'arborescence de mon projet, je peux ainsi savoir que ma page de d'inscription se situe au même niveau que ma page de connexion et que cette même page de connexion à une sous-page qui sont les annonces de petsitting. 
 
   Gloomaps me permet aussi de montrer clairement l'arborescence de mon projet à une personne tiers qui n'en aurait jamais entendu parler. Je gagne ainsi du temps. 
 
   Je rempli mon arborescence à chaque fois qu'une page est modifiée ou créé. 
-
-
 
 
 
@@ -115,6 +108,10 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
   Github permet aussi de faire différentes branches, c'est très pratique pour hiérarchiser ces modifications.
 
   Je commit et push les modifications de mon projet chaque fois qu'il y en a une.
+
+
+
+
 
 - Typora : J'ai réalisé mon READ ME  sur Typora qui est un markdown editor qui facilite l'écriture et la lecture d'un fichier .md. 
 
@@ -140,13 +137,16 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
   J'update mes diagrammes dès que j'en ai la nécessité. 
 
+
+
+
+
 - Une feuille et un crayon : J'ai dessiné mes maquettes zoning & wireframes avec une feuille et un crayon.
 
   C'est le format qui me met le plus à l'aise pour savoir à quoi mon application va ressembler dans sa première version, je place simplement les blocs principaux dans tel ou tel position. Je sais ainsi ce que je veux mettre en avant dans tel ou tel pages de mon application.
 
+   Ça me donne une idée claire et précise du format de mon application. 
 
-
-  Ça me donne une idée claire et précise du format de mon application. 
 
 - Marvel app : J'ai réalisé ma maquette cliquable sur Marvel car c'est un outil très intuitif pour faire nos propre designs gratuitement. 
 
@@ -170,17 +170,19 @@ J'ai donc décidé de réaliser mon projet comme solution pour cette problèmati
 
 - IDE : Eclipse
 
-- Java 
+- Java 8
 
    J'ai choisi d'utiliser le langage Java car c'est un langage orienté objet, mon projet sera ainsi plus structuré et facilement maintenable en cas de problèmes.
 
-  Java permet de faire de lourdes conceptions avec de bonnes performances. 
+​        Java permet de faire de lourdes conceptions avec de bonnes performances. 
 
-  Java possède une grande communauté de développeurs prêt à m'aider en cas de besoin dans mon projet.
+​     	Java possède une grande communauté de développeurs prêt à m'aider en cas de besoin dans mon projet.
 
-  Les API Java sont très utiles et font gagner énormément de temps.
+  	Les API Java sont très utiles et font gagner énormément de temps.
 
   Java permet l'utilisation de base de données, je pourrais ainsi manipuler librement les données de mes utilisateurs par exemple.
+
+
 
 - Springboot 
 
